@@ -1,11 +1,3 @@
---Epik Hub.
-
---Lose all your games with Epik Hub, the smallest library of scripts.
-
---Unparalled crap quality.
-
---Version v1.1
-
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
